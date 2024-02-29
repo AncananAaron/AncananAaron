@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">I am interested in DevOps Engineer</h3>
+<h3 align="center">I am Computer Science Student</h3>
 
 - 📫 How to reach me **ancananaaron@gmail.com**
 
